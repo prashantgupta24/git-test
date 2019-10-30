@@ -4,5 +4,3 @@ develop2
 staging 2
 one
 two
-commit 1
-commit 2
